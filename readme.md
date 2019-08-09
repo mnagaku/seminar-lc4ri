@@ -24,14 +24,14 @@ LC4RIの中心的なツールである「JupryterNotebook」について理解�
 
 - Linuxの基本的なコマンドの操作ができること
 - 各種サーバの構築や運用をした経験がある、またはそれに準ずる知識を有すること
-- 実務経験は問わないが、プログラミング経験（シェルスプリクト含む）があること
+- 実務経験は問わないが、プログラミング経験（シェルスクリプト含む）があること
 
 ----
 
 ## 研修内容
 
-[JupyterNotebookの基礎（2時間）](基礎.ipynb)
+[JupyterNotebookの基礎（2時間）](./基礎.ipynb)
 
-[JupyterNotebookによる構築（2時間）](構築.ipynb)
+[JupyterNotebookによる構築（2時間）](./構築.ipynb)
 
-[JupyterNotebookによる運用（2時間）](運用.ipynb)
+[JupyterNotebookによる運用（2時間）](./運用.ipynb)
