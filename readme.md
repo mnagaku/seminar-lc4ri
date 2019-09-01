@@ -2,7 +2,7 @@
 
 # 情報処理技術セミナー（クラウド編）
 
-※本コンテンツ一式は[github](https://github.com/mnagaku/seminar-lc4ri)に上がっています
+※本コンテンツ一式は「[https://github.com/mnagaku/seminar-lc4ri](https://github.com/mnagaku/seminar-lc4ri)」に上がっています
 
 ## 2019年度のテーマ：LC4RIによる情報システムの構築・運用
 
