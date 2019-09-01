@@ -34,4 +34,4 @@ LC4RIの中心的なツールである「JupryterNotebook」について理解�
 
 [JupyterNotebookによる構築（2時間）](./構築.ipynb)
 
-[JupyterNotebookによる運用（2時間）](./運用.ipynb)
+[JupyterNotebookによる運用（2時間）](./運用.ipynb)（[辛口](./運用辛口.ipynb)）
